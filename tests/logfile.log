@@ -1,0 +1,12 @@
+2022-03-28 12:08:17,481 :INFO :test_e2e :Text receive from application is THANK YOU FOR YOUR ORDER
+2022-03-28 12:14:21,218 :INFO :test_logginpage :full Name is standard_user
+2022-03-28 12:25:42,293 :INFO :test_logginpage :full Name is standard_user
+2022-03-28 12:26:08,069 :INFO :test_e2e :Text receive from application is THANK YOU FOR YOUR ORDER
+2022-03-31 09:35:06,248 :INFO :test_logginpage :full Name is standard_user
+2022-04-01 12:36:12,756 :INFO :test_logginpage :full Name is standard_user
+2022-04-01 12:39:56,849 :INFO :test_e2e :Text receive from application is THANK YOU FOR YOUR ORDER
+2022-04-01 12:40:21,681 :INFO :test_logginpage :full Name is standard_user
+2022-04-01 13:04:31,801 :INFO :test_salesforce :rainaazad@matr.com
+2022-04-01 13:41:08,205 :INFO :test_salesforce :rainaazad@matr.com
+2022-04-01 14:19:15,044 :INFO :test_salesforce :rainaazad@matr.com
+2022-04-01 20:33:06,800 :INFO :test_salesforce :rainaazad@matr.com

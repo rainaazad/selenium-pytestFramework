@@ -1,0 +1,15 @@
+Index: tests/test_e2e.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/tests/test_e2e.py b/tests/test_e2e.py
+--- a/tests/test_e2e.py	(date 1647181250459)
++++ b/tests/test_e2e.py	
+@@ -2,5 +2,5 @@
+ 
+ class TestOne:
+     def test_e2e(self):
+-
++        
+ 

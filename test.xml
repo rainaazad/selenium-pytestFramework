@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+    <student id="1" type="good">
+        <about>
+            <name>Raina Azad</name>
+            <age>23</age>
+        </about>
+        <education>
+            <name>WCA</name>
+            <degree>HS</degree>
+        </education>
+    </student>
+    <student id="2" type="bad">
+        <about>
+            <name>Hasan Ali</name>
+            <age>24</age>
+        </about>
+        <education>
+            <name>WCA</name>
+            <degree>HS</degree>
+        </education>
+    </student>
+</students>

@@ -1,0 +1,19 @@
+{
+  "name": "Raina Azad",
+  "age": 23,
+  "education": [
+    {
+      "name": "WCA",
+      "degree": "HS"
+    },
+    {
+      "name": "KKDAS",
+      "degree": "BA"
+    }
+  ],
+  "address": {
+    "name": "Sonarpur",
+    "pin": 700103,
+    "locality": "Narendrapur"
+  }
+}
